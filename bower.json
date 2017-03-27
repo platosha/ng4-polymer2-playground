@@ -24,6 +24,7 @@
     "paper-radio-button": "PolymerElements/paper-radio-button#2.0-preview",
     "paper-radio-group": "PolymerElements/paper-radio-group#2.0-preview",
     "paper-slider": "PolymerElements/paper-slider#2.0-preview",
-    "paper-toggle-button": "PolymerElements/paper-toggle-button#2.0-preview"
+    "paper-toggle-button": "PolymerElements/paper-toggle-button#2.0-preview",
+    "paper-item": "PolymerElements/paper-item#2.0-preview"
   }
 }

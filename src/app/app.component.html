@@ -1,3 +1,25 @@
 <h1>
   {{title}}
 </h1>
+
+<h2>Paper Input Elements</h2>
+
+<h3>Paper Checkbox</h3>
+<p>
+<paper-checkbox>Default</paper-checkbox>
+<p>
+<paper-checkbox checked>Checked</paper-checkbox>
+<p>
+<paper-checkbox [checked]="false">Bound default</paper-checkbox>
+<p>
+<paper-checkbox [checked]="true">Bound checked</paper-checkbox>
+
+<h3>Paper Dropdown Menu</h3>
+<paper-dropdown-menu label="Select me">
+  <paper-listbox selected="1">
+    <paper-item>foo</paper-item>
+    <paper-item>bar</paper-item>
+    <paper-item>baz</paper-item>
+    <paper-item>qux</paper-item>
+  </paper-listbox>
+</paper-dropdown-menu>
