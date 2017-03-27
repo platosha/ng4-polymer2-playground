@@ -1,0 +1,29 @@
+{
+  "name": "ng4-polymer2-playground",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Anton Platonov <platosha@gmail.com>"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0-rc.1",
+    "paper-checkbox": "PolymerElements/paper-checkbox#2.0-preview",
+    "paper-dropdown-menu": "PolymerElements/paper-dropdown-menu#2.0-preview",
+    "paper-input": "PolymerElements/paper-input#2.0-preview",
+    "paper-listbox": "PolymerElements/paper-listbox#2.0-preview",
+    "paper-radio-button": "PolymerElements/paper-radio-button#2.0-preview",
+    "paper-radio-group": "PolymerElements/paper-radio-group#2.0-preview",
+    "paper-slider": "PolymerElements/paper-slider#2.0-preview",
+    "paper-toggle-button": "PolymerElements/paper-toggle-button#2.0-preview"
+  }
+}
